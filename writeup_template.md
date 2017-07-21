@@ -1,5 +1,5 @@
-[image1]: ./simul_results/EKF_results.png
-[image2]: ./simul_results/EKF_simul.png
+[image1]: ./simul_results/EKF_simul.png
+[image2]: ./simul_results/EKF_results.png
 
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
